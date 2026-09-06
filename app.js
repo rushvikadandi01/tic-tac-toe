@@ -55,6 +55,7 @@ let board = [
     "",
     "",
     "",
+    "",
     ""
 ];
 
@@ -466,6 +467,7 @@ function closePopup() {
 function resetGame() {
 
     board = [
+        "",
         "",
         "",
         "",
